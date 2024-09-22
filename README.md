@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on C# and .NET projects
 - 📫 How to reach me:
 	- Email: stanislav.humeniuk@outlook.com
-	- Social media: @SonormaY
+	- Messengers: @SonormaY
 
 
 <!---
